@@ -6,5 +6,5 @@ Purpose:
 
 Analysis: 
 
-  Starting the analysis, a set of 2000 random latitudes and longitudes coordinates were generated to get the nearest city using an API call with the OpenWeatherMap. This call found XXX cities. Based on that city list, input statements were created to retrieve potential travel destinations based on the user's criteria and nearby hotels based on the nearest cities that were called by the API filtered by the given temperature range inputted by the user. In this case 65-120°F. 
+  Starting the analysis, a set of 2000 random latitudes and longitudes coordinates were generated to get the nearest city using an API call with the OpenWeatherMap. This call found 686 cities. Based on that city list, input statements were created to retrieve potential travel destinations based on the user's criteria and nearby hotels based on the nearest cities that were called by the API filtered by the given temperature range inputted by the user. In this case 65-120°F. 
   
